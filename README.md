@@ -1,0 +1,1 @@
+Mais definições em: https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-sizing
